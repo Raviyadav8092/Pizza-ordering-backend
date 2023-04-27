@@ -40,4 +40,4 @@ app.listen(port, () => {
     `Server Running On ${process.env.NODE_ENV} mode on port no ${process.env.PORT}`
       .bgMagenta.white
   );
-});
+})
