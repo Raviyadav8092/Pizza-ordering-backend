@@ -89,4 +89,4 @@ const pizzas = [
       "The wholesome flavour of tandoori masala with Chicken tikka, onion, red paprika & mint mayo",
   },
 ];
-module.exports = pizzas;
+module.exports = pizzas
