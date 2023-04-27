@@ -30,5 +30,5 @@ const dataDestroy = () => {};
 if (process.argv[2] === "-d") {
   dataDestroy();
 } else {
-  importData();
+  importData()
 }
