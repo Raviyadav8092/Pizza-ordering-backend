@@ -60,4 +60,4 @@ router.post("/deleteuser", async (req, res) => {
     res.status(404).json({ message: error.stack });
   }
 });
-module.exports = router;
+module.exports = router
