@@ -14,10 +14,11 @@ const NavBar = () => {
         <Container>
           <Navbar.Brand>
             <Image
-              src="images/logo.png"
+              src="images/logo1.jpg"
               alt="logo"
               style={{ height: "50px" }}
             />
+            <h3>Ravi's Pizza</h3>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">

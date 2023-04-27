@@ -11,30 +11,27 @@ const Contact = () => {
           <Col md={6}>
             <h1>Techinfo YT Pizza Shop</h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores,
-              nostrum magni voluptatem perferendis dolorum nisi architecto
-              maxime voluptas exercitationem. Omnis, iure laudantium eveniet
-              voluptas corrupti deserunt minima. Omnis dolore unde, esse magnam
-              animi nesciunt velit impedit eveniet voluptates beatae libero
-              laboriosam soluta dolorem odio delectus nisi suscipit quaerat
-              repudiandae ratione? Cum fugit inventore porro, ipsum quas
-              voluptas? Optio assumenda ut rem totam ea, sequi consequuntur eos
-              magnam asperiores fugiat repudiandae dolor rerum praesentium a
-              deleniti doloribus exercitationem officiis odio iure quis minus
-              omnis quisquam cumque aperiam. Dolorum sed fugit voluptates vel
-              quia sit molestias. Voluptas sint at maxime saepe, fuga
-              exercitationem incidunt eveniet esse laudantium itaque dolores
-              reiciendis nihil quia iste minus minima quas ut doloremque
-              delectus reprehenderit quo voluptate molestiae omnis earum. Nemo
-              corporis possimus, ea animi quis ipsam, dolorem facere eum sint
-              adipisci aperiam odit repellendus inventore qui eius magnam cumque
-              iste, sit maiores iusto modi distinctio reiciendis. Voluptatem
-              omnis nam iste culpa, a pariatur facere debitis mollitia impedit
-              ea, similique iusto veritatis ab. Eum sint possimus facilis
-              praesentium nostrum iure voluptatem, explicabo dolorum, illum
-              maxime corrupti itaque esse aspernatur voluptates, in officiis
-              temporibus obcaecati. Sunt ad velit beatae deserunt ab iure
-              veritatis modi dolorum? Quisquam, reiciendis iusto.
+              We would love to hear from you! Please feel free to contact us with any questions, comments, or feedback.
+
+              Location
+              123 Main Street
+              Anytown, USA 12345
+
+              Hours of Operation
+              Monday - Friday: 11am - 10pm
+              Saturday - Sunday: 9am - 11pm
+
+              Reservations
+              To make a reservation, please call us at (123) 456-7890 or use our online reservation system [here](insert link to online reservation system).
+
+              Catering
+              Let us cater your next event! Contact us at catering@ourrestaurant.com for more information.
+
+              Employment
+              Interested in joining our team? Check out our [careers page](insert link to careers page) for current job openings and to submit your resume.
+
+              General Inquiries
+              For all other inquiries, please fill out the form below or email us at info@ourrestaurant.com. We will get back to you as soon as possible.
             </p>
 
             <Table striped bordered hover className="text-center">
